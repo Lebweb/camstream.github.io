@@ -1,0 +1,23 @@
+<svg width="56.282715" height="56.283203" viewBox="0 0 56.2827 56.2832" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_1979">
+			<rect id="telegram" rx="22.231674" width="55.719894" height="55.719894" transform="translate(0.281414 0.281414)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="9.568062" y1="6.753927" x2="39.960732" y2="42.212044" id="paint_linear_1_1979_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F0F0F0"/>
+			<stop offset="1.000000" stop-color="#E9E9E9"/>
+		</linearGradient>
+		<pattern id="pattern_1_19800" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image1_1980_0" transform="matrix(0.010417,0,0,0.010417,0,0)"/>
+		</pattern>
+		<image id="image1_1980_0" width="96.000000" height="96.000000" xlink:href="data:image/png;base64,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"/>
+	</defs>
+	<rect id="telegram" rx="22.231674" width="55.719894" height="55.719894" transform="translate(0.281414 0.281414)" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip1_1979)">
+		<rect id="Telegram App" x="16.884766" y="16.884766" width="22.513088" height="22.513088" fill="url(#pattern_1_19800)" fill-opacity="1.000000"/>
+	</g>
+	<rect id="telegram" rx="22.231674" width="55.719894" height="55.719894" transform="translate(0.281414 0.281414)" stroke="url(#paint_linear_1_1979_0)" stroke-opacity="1.000000" stroke-width="0.562827"/>
+</svg>
